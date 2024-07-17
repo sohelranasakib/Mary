@@ -1,0 +1,56 @@
+@media(max-width:992px){
+    .menu_bg ul{
+        text-align: end;
+    }
+    .menu_bg .one{
+        text-align: end;
+    }
+    .menu_bg button{
+        border: 2px solid red;
+    }
+    .menu_bg .navbar-toggler{
+        color: red;
+        font-size: 30px;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    #banner h4 {
+        font-size: 65px;
+        left: -14px;
+    }
+    #banner {
+        padding-top: 135px;
+        padding-bottom: 102px;
+    }
+    .banner_text{
+        text-align: center;
+    }
+    .experience_main{
+        margin-top: 30px;
+    }
+    .foot_form{
+        margin-top: 50px;
+    }
+}
+
+@media(max-width:575px){
+
+}
+@media(min-width:576px) and (max-width:767px){
+    
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
+@media(min-width:992px) and (max-width:1199px){
+
+}
+@media(min-width:1200px) and (max-width:1399px){
+
+}
+@media(min-width:1400px){
+
+}
